@@ -1,0 +1,509 @@
+2025-10-20 15:18:13 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-10-20 15:20:49 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-10-20 15:23:55 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-10-20 15:23:55 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:23:56 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:23:56 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:23:56 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:23:56 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:23:56 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:23:56 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:23:56 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:23:56 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:23:56 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:23:56 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:23:56 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:23:56 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:23:56 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:23:57 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:23:57 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:23:57 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:23:57 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:23:57 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:23:57 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:23:57 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:23:57 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:23:57 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:23:57 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:23:57 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:23:57 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:23:57 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
+2025-10-20 15:24:10 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:24:11 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:24:11 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:24:11 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:24:11 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:24:12 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:24:13 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:24:13 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:24:13 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
+2025-10-20 15:31:40 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-10-20 15:31:40 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:31:42 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:31:42 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:31:42 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:31:42 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:31:42 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:31:42 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:31:43 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:31:43 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:31:43 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:31:43 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:31:43 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:31:43 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:31:43 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:31:43 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:31:43 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:31:43 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:31:43 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:31:44 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:31:44 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:31:44 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:31:44 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:31:44 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:31:44 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:31:44 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:31:44 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:31:44 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
+2025-10-20 15:31:45 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:31:46 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:31:46 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:31:46 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:31:46 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:31:46 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:31:46 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:31:46 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:31:46 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:31:46 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:31:46 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:31:46 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:31:46 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:31:46 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:31:46 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:31:47 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:31:47 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:31:47 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:31:47 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:31:47 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:31:47 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:31:47 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:31:47 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:31:47 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:31:47 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:31:47 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:31:47 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
+2025-10-20 15:33:49 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-10-20 15:33:49 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:33:50 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:33:51 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:33:51 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:33:51 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:33:51 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:33:51 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:33:51 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
+2025-10-20 15:33:51 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:33:52 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:33:52 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:33:52 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:33:52 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:33:52 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:33:52 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:33:52 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:33:52 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:33:52 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:33:52 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:33:52 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:33:52 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:33:52 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:33:52 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:33:53 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:33:53 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:33:53 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:33:53 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:33:53 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:33:53 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:33:53 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:33:53 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:33:53 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:33:53 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:33:53 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:33:53 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
+2025-10-20 15:34:15 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-10-20 15:34:15 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:34:16 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:34:16 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:34:16 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:34:16 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:34:16 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:34:16 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:34:16 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:34:16 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:34:17 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
+2025-10-20 15:39:01 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-10-20 15:39:01 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:39:02 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:39:02 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:39:02 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:39:02 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:39:02 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:39:02 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:39:03 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
+2025-10-20 15:40:44 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-10-20 15:40:46 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:40:47 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:40:47 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:40:47 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:40:47 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:40:47 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:40:47 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:40:47 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:40:47 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:40:48 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
+2025-10-20 15:41:29 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-10-20 15:41:29 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:41:30 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:41:30 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:41:30 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:41:30 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:41:30 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:41:30 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:41:30 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:41:30 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:41:30 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:41:31 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:41:31 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:41:31 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:41:31 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:41:31 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:41:31 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:41:31 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:41:31 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:41:31 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:41:31 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:41:31 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:41:31 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:41:31 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:41:32 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:41:32 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:41:32 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:41:32 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
+2025-10-20 15:42:12 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-10-20 15:42:13 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:42:14 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:42:14 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:42:14 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:42:14 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:42:14 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:42:15 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:42:15 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:42:15 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:42:15 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:42:15 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:42:15 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:42:15 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:42:15 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:42:15 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:42:15 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:42:15 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:42:16 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:42:16 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:42:16 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:42:16 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:42:16 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:42:16 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:42:16 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:42:16 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:42:16 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:42:16 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
+2025-10-20 15:44:59 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-10-20 15:45:00 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:45:01 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:45:02 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:45:02 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:45:02 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:45:02 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:45:02 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:45:02 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:45:02 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:45:02 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:45:02 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:45:02 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
+2025-10-20 15:48:09 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-10-20 15:48:10 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:48:10 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:48:11 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:48:11 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:48:11 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:48:11 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:48:11 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:48:11 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:48:11 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:48:11 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:48:11 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:48:11 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:48:11 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:48:11 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:48:11 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:48:12 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:48:12 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:48:12 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:48:12 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:48:12 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:48:12 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:48:12 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:48:12 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:48:12 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:48:12 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:48:12 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:48:12 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
+2025-10-20 15:49:46 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-10-20 15:49:47 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:49:48 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:49:48 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:49:48 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:49:48 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:49:48 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:49:48 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:49:48 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:49:48 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:49:48 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:49:48 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:49:48 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:49:48 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:49:49 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:49:49 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:49:49 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:49:49 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:49:49 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:49:49 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:49:49 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:49:49 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:49:49 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:49:49 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:49:49 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:49:49 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:49:49 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:49:49 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
+2025-10-20 15:53:42 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-10-20 15:53:43 [wxauto] [DEBUG] [sessionbox.py:70]  切换聊天窗口: 英明中、晚饭订餐群, False, False, 0.5
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: @所有人 今天订餐消息设置一下格式：xxx xx，共x份 这样, length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: 人名空格隔开，用逗号（，）分割共计人数, length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: 占旭丽
+  1份, length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营 共8人, length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: 蔡云云
+顾春遥         谢春新
+邓国梅         王梅
+           5, length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: 孙世伟，董志彬两份, length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: 顾海春，, length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: 群公告
+订餐消息格式：xxx xx，共x份 
+人名空格隔开，用逗号（，）分割共计人数, length: 11
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: 这看不清吗？, length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: 有个机器人的程序要按这个格式来, length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: 你弄一个我看看。[捂脸], length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: 龚建玲  陈可欣 柴奇  高菊玲  齐相霞 徐泽宇 李洋  宋孝营， 共8人, length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: 这个样子, length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: 李明勇 朱宗睿 陈文权，共3人, length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共16人, length: 8
+2025-10-20 15:53:44 [wxauto] [DEBUG] [msg.py:79]  content: 肖志鸿 ，1份, length: 10
+2025-10-20 15:53:45 [wxauto] [DEBUG] [msg.py:79]  content: 李军林，1份, length: 10
+2025-10-20 15:53:45 [wxauto] [DEBUG] [msg.py:79]  content: 陈福東，阮文，柴清卫, length: 10
+2025-10-20 15:53:45 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:53:45 [wxauto] [DEBUG] [msg.py:79]  content: 殷明，1份, length: 10
+2025-10-20 15:53:45 [wxauto] [DEBUG] [msg.py:79]  content: [OK], length: 10
+2025-10-20 15:53:45 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:53:45 [wxauto] [DEBUG] [msg.py:79]  content: @良行上厨®快餐店订餐机器人 , length: 10
+2025-10-20 15:53:45 [wxauto] [DEBUG] [msg.py:79]  content: @衡冕🌐 2025年10月20日英明中、晚饭订餐群订餐汇总：共11人, length: 8
